@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119234458761",
+    "project_id": "shop-smart-b200a",
+    "storage_bucket": "shop-smart-b200a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119234458761:android:8ef42588daee5b1b700258",
+        "android_client_info": {
+          "package_name": "com.example.smart_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119234458761-3732cn0qmh494je2valff8e27kpem5fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPcih4zvRb2ntHdB68ZJbJt_3PDcgt_hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119234458761-3732cn0qmh494je2valff8e27kpem5fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
